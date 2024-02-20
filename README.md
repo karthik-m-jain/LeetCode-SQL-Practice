@@ -1,4 +1,4 @@
-# LeetCode-SQL-Practice
+### LeetCode-SQL-Practice
 
 This repository is my collection of SQL solutions for LeetCode challenges, aimed at sharing knowledge and enhancing SQL problem-solving skills.
 
@@ -10,11 +10,11 @@ This repository is my collection of SQL solutions for LeetCode challenges, aimed
 - **Resources**: Curated list of helpful SQL and LeetCode resources.
 -->
 
-## Usage
+#### Usage
 
 - **Explore**: Navigate through the repository to find solutions and insights that can aid your learning.
 - **Feedback**: Contributions, corrections, and discussions are welcome! Feel free to open issues or pull requests.
 
-## Contact
+#### Contact
 
 For questions or discussions, reach out via [jainkarthik.99@gmail.com](jainkarthik.99@gmail.com).
