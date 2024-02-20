@@ -21,7 +21,6 @@
 
 */
 
-
 --Solution
 SELECT product_id 
 FROM Products 
