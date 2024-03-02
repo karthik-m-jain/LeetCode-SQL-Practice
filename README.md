@@ -2,7 +2,7 @@
 
 This repository is my collection of SQL solutions for LeetCode challenges, aimed at sharing knowledge and enhancing SQL problem-solving skills.
 
-Problem Set: [LeetCode Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+Problem Set: [Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 <!--
 ## Contents
